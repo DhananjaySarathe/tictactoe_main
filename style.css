@@ -1,0 +1,82 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #838505;
+    background-image: url("image/theme.png");
+}
+.navi{
+    background-color: #6f540a;
+    background-image: url("image/theme.png");
+    padding-bottom: 2%;
+    /* margin-bottom: 0px; */
+}
+.navbar-brand{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    background-color: #bdce40;
+    font-size: 3rem;
+    border: 3px solid black;
+    padding: 1.5%;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.7rem;
+    font-weight: 500;
+    margin-bottom: 7%;
+}
+
+h4{
+    color: #553f04;
+    text-align: left;
+    font-size: 1.5rem;
+    margin-top: 7%;
+
+}
+
+img{
+    margin-bottom: 3%;
+}
+
+a{
+    margin-top: 4%;
+    text-decoration: none;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #023e1c;
+    border: 2px solid black;
+    padding-top: 2.8%;
+    padding-bottom: 2.8%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.hover-1 {
+    background: linear-gradient(#10c128 0 0) var(--p, 0) / var(--p, 0) no-repeat;
+    transition: .4s, background-position 0s;
+  }
+  .hover-1:hover {
+    --p: 100%;
+    color: #fff;
+  }
+
+.lev{
+    border: 3px solid black;
+    padding: 1.5%;
+}
+
+.video{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #007533;
+    background-image: url("image/theme.png");
+    text-align: center;
+}
+
+.levels{
+    background-color: #008510;
+    background-image: url("image/theme.png");
+}
+.frus{
+    color: rgb(93, 17, 17);
+}
